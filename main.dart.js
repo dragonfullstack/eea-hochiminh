@@ -62900,7 +62900,7 @@ n=$.j()
 p=n.gm()
 n=n.a
 n===$&&A.b()
-m=A.aN("H\u1ed3 s\u01a1 tham d\u1ef1 gi\u1ea3i th\u01b0\u1edfng \u0111\u01b0\u1ee3c n\u1ed9p cho Ban T\u1ed5 ch\u1ee9c gi\u1ea3i th\u01b0\u1edfng tr\u01b0\u1edbc ng\xe0y 10/5/2022 (theo th\u1eddi gian n\u1ed9p h\u1ed3 s\u01a1 ho\u1eb7c x\xe1c nh\u1eadn c\u1ee7a c\u01a1 quan chuy\u1ec3n ph\xe1t/b\u01b0u \u0111i\u1ec7n)",a7,a7,a7,a7,a7,A.b1().Q.bQ($.mJ()),a7,a7)
+m=A.aN("H\u1ed3 s\u01a1 tham d\u1ef1 gi\u1ea3i th\u01b0\u1edfng \u0111\u01b0\u1ee3c n\u1ed9p cho Ban T\u1ed5 ch\u1ee9c gi\u1ea3i th\u01b0\u1edfng tr\u01b0\u1edbc ng\xe0y 30/06/2022 (theo th\u1eddi gian n\u1ed9p h\u1ed3 s\u01a1 ho\u1eb7c x\xe1c nh\u1eadn c\u1ee7a c\u01a1 quan chuy\u1ec3n ph\xe1t/b\u01b0u \u0111i\u1ec7n)",a7,a7,a7,a7,a7,A.b1().Q.bQ($.mJ()),a7,a7)
 l=$.j()
 k=l.gm()
 l=l.a
