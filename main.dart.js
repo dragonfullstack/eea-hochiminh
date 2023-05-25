@@ -62901,7 +62901,7 @@ n=$.j()
 p=n.gm()
 n=n.a
 n===$&&A.b()
-m=A.aM("H\u1ed3 s\u01a1 tham d\u1ef1 gi\u1ea3i th\u01b0\u1edfng \u0111\u01b0\u1ee3c n\u1ed9p cho Ban T\u1ed5 ch\u1ee9c gi\u1ea3i th\u01b0\u1edfng tr\u01b0\u1edbc ng\xe0y 30/06/2023.",a7,a7,a7,a7,a7,A.b0().Q.bN($.mJ()),a7,a7)
+m=A.aM("H\u1ed3 s\u01a1 tham d\u1ef1 gi\u1ea3i th\u01b0\u1edfng \u0111\u01b0\u1ee3c n\u1ed9p cho Ban T\u1ed5 ch\u1ee9c gi\u1ea3i th\u01b0\u1edfng tr\u01b0\u1edbc ng\xe0y  20/06/2023.",a7,a7,a7,a7,a7,A.b0().Q.bN($.mJ()),a7,a7)
 l=$.j()
 k=l.gm()
 l=l.a
@@ -63105,7 +63105,7 @@ g=$.j()
 f=g.gm()
 g=g.a
 g===$&&A.b()
-e=A.aM("H\u1ed3 s\u01a1 tham d\u1ef1 gi\u1ea3i th\u01b0\u1edfng \u0111\u01b0\u1ee3c n\u1ed9p cho Ban T\u1ed5 ch\u1ee9c gi\u1ea3i th\u01b0\u1edfng tr\u01b0\u1edbc ng\xe0y 30/06/2023 (theo th\u1eddi gian n\u1ed9p h\u1ed3 s\u01a1 ho\u1eb7c x\xe1c nh\u1eadn c\u1ee7a c\u01a1 quan chuy\u1ec3n ph\xe1t/b\u01b0u \u0111i\u1ec7n).",a9,a9,a9,a9,a9,A.b0().Q.bN(B.Jt),a9,a9)
+e=A.aM("H\u1ed3 s\u01a1 tham d\u1ef1 gi\u1ea3i th\u01b0\u1edfng \u0111\u01b0\u1ee3c n\u1ed9p cho Ban T\u1ed5 ch\u1ee9c gi\u1ea3i th\u01b0\u1edfng tr\u01b0\u1edbc ng\xe0y  20/06/2023 (theo th\u1eddi gian n\u1ed9p h\u1ed3 s\u01a1 ho\u1eb7c x\xe1c nh\u1eadn c\u1ee7a c\u01a1 quan chuy\u1ec3n ph\xe1t/b\u01b0u \u0111i\u1ec7n).",a9,a9,a9,a9,a9,A.b0().Q.bN(B.Jt),a9,a9)
 d=$.j()
 c=d.gm()
 d=d.a
@@ -63911,7 +63911,7 @@ o=$.j()
 s=o.gm()
 o=o.a
 o===$&&A.b()
-return new A.bj(new A.w(p,0,p,0),A.bD(A.a([new A.ab(q,32*(s/o.a),q,q),r.aw1(a,A.b6("price_content1"),"(Th\xe1ng 5)","C\xd4NG B\u1ed0 GI\u1ea2I TH\u01af\u1edeNG"),r.Dr(a,A.b6("price_content2"),2,"Th\xe1ng 6 (H\u1ea1n cu\u1ed1i n\u1ed9p h\u1ed3 s\u01a1: 30/07/2023)","NH\u1eacN H\u1ed2 S\u01a0 "),r.Dr(a,A.b6("price_content3"),3,"Th\xe1ng 7","\u0110\xc1NH GI\xc1, X\xc1C MINH, X\u1ebeP H\u1ea0NG H\u1ed2 S\u01a0"),r.Dr(a,A.b6("price_content4"),4,"Th\xe1ng 8","TRAO GI\u1ea2I")],t.p),B.r,B.q,B.p,B.F),q)},
+return new A.bj(new A.w(p,0,p,0),A.bD(A.a([new A.ab(q,32*(s/o.a),q,q),r.aw1(a,A.b6("price_content1"),"- Th\xe1ng 5/2023","C\xd4NG B\u1ed0 GI\u1ea2I TH\u01af\u1edeNG"),r.Dr(a,A.b6("price_content2"),2,"- Th\xe1ng 6/2023","NH\u1eacN H\u1ed2 S\u01a0 "),r.Dr(a,A.b6("price_content3"),3,"- Th\xe1ng 7/2023","\u0110\xc1NH GI\xc1, X\xc1C MINH, X\u1ebeP H\u1ea0NG H\u1ed2 S\u01a0"),r.Dr(a,A.b6("price_content4"),4,"Th\xe1ng 8/2023","TRAO GI\u1ea2I")],t.p),B.r,B.q,B.p,B.F),q)},
 Dr(a,b,c,d,e){var s,r,q,p,o,n,m,l=null,k=$.j(),j=k.gm()
 k=k.a
 k===$&&A.b()
